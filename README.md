@@ -32,6 +32,6 @@ Bu projeyi forkladıktan sonra bilgisayarınıza klonlayın.
 ### Sonuçlar
  * Her sınıf için en az bir tane obje oluşturmalısınız
  * Her obje için toString() metodunu mutlaka çağırmalı ve ekran görüntüsünü görmelisiniz
- * Encapsulation kurallarını doğru bir şekilde uygulamalısnız. Örneğin Comapny için endorsement değeri hiçbir zaman negatif bir değer almamalı.
+ * Encapsulation kurallarını doğru bir şekilde uygulamalısnız. Örneğin Company için giro değeri hiçbir zaman negatif bir değer almamalı.
    
  
